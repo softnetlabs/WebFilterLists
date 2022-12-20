@@ -22,6 +22,8 @@
 0.0.0.0 www.azureedge.net
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 iris.microsoft.com
 0.0.0.0 edge.microsoft.com
 0.0.0.0 data.microsoft.com
