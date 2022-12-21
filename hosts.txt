@@ -38,6 +38,7 @@
 0.0.0.0 msftncsi.com
 0.0.0.0 dns.msftncsi.com
 
+
 #[office365]
 0.0.0.0 ecs.office.com
 0.0.0.0 nexusrules.officeapps.live.com
