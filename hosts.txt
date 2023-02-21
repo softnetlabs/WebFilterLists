@@ -59,3 +59,6 @@
 0.0.0.0 api.saasexch.cc
 0.0.0.0 saasexch.com
 0.0.0.0 api.saasexch.com
+
+#[google]
+0.0.0.0 clients3.google.com
