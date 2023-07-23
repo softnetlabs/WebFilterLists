@@ -4,7 +4,9 @@
 
 # --- Group block ---
 
-#[microsoft]
+# Big Tech
+
+#[Microsoft]
 0.0.0.0 msn.com
 0.0.0.0 www.msn.com
 0.0.0.0 assets.msn.com
@@ -39,16 +41,33 @@
 0.0.0.0 dns.msftncsi.com
 
 
-#[office365]
+#[Office365]
 0.0.0.0 ecs.office.com
 0.0.0.0 nexusrules.officeapps.live.com
 
 
-#[paradox_interactive]
+#[Google]
+0.0.0.0 clients3.google.com
+
+
+#[Samsung]
+0.0.0.0 samsungcloud.com
+0.0.0.0 capi.samsungcloud.com
+0.0.0.0 play.samsungcloud.com
+0.0.0.0 ers.samsungcloud.com
+0.0.0.0 analytics.samsungknox.com
+
+
+# Game Clients
+
+#[Paradox_interactive]
 0.0.0.0 prod-telemetry.paradox-interactive.com
 
 
-#[binance]
+# Crypto Clients
+
+
+#[Binance]
 0.0.0.0 bntrace.com
 0.0.0.0 log.bntrace.com
 0.0.0.0 jpush.bntrace.com
@@ -59,6 +78,3 @@
 0.0.0.0 api.saasexch.cc
 0.0.0.0 saasexch.com
 0.0.0.0 api.saasexch.com
-
-#[google]
-0.0.0.0 clients3.google.com
