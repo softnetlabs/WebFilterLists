@@ -51,7 +51,7 @@
 
 
 #[Facebook]
-0.0.0.0 lookout.facebook.com
+0.0.0.0 lookaside.facebook.com
 0.0.0.0 graph.facebook.com
 
 
