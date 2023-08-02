@@ -1,5 +1,5 @@
 # Title: pfHost
-# Blocked: 54 domains
+# Blocked: 57 domains
 # =====================================================
 
 # --- Group block ---
@@ -14,10 +14,12 @@
 0.0.0.0 msn.cn
 0.0.0.0 www.msn.cn
 0.0.0.0 assets.msn.cn
+0.0.0.0 windows.msn.cn
 0.0.0.0 bing.com
 0.0.0.0 www.bing.com
 0.0.0.0 skype.com
 0.0.0.0 www.skype.com
+0.0.0.0 edge.skype.com
 0.0.0.0 config.edge.skype.com
 0.0.0.0 msedge.net
 0.0.0.0 fp.msedge.net
@@ -36,6 +38,7 @@
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 windowsupdate.com
+0.0.0.0 download.windowsupdate.com
 0.0.0.0 7.au.download.windowsupdate.com
 0.0.0.0 msftncsi.com
 0.0.0.0 dns.msftncsi.com
