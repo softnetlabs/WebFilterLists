@@ -1,5 +1,5 @@
 # Title: pfHost
-# Blocked: 45 domains
+# Blocked: 54 domains
 # =====================================================
 
 # --- Group block ---
@@ -48,6 +48,15 @@
 
 #[Google]
 0.0.0.0 clients3.google.com
+
+
+#[Facebook]
+0.0.0.0 lookout.facebook.com
+0.0.0.0 graph.facebook.com
+
+
+#[Instagram]
+0.0.0.0 graph.instagram.com
 
 
 #[Samsung]
